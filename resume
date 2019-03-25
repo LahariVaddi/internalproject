@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.bodystyle {
+  background-color: white;
+  width: 900px;
+  border: 25px white;
+  padding: 50px;
+  margin: 25px;  
+}
+
+.mainheading{
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+.address{
+text-align: right;  
+  color: #000000;
+}
+.background_complete_sheet{
+background-color: #000000;
+}
+.main{
+  text-align: center;
+ }
+ 
+	 
+.sideheading{
+  border: 2px solid black;
+  outline: #4CAF50 solid 3px;
+  text-align:left;
+}
+.content{
+	text-align: justify;  
+	color: #000000;
+	}
+	#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#details td, #details th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#details tr:nth-child(even){background-color: #f2f2f2;}
+
+#details tr:hover {background-color: #ddd;}
+
+#details th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+	
+</style>
+</head>
+<body class="background_complete_sheet">
+<center>
+<div class="bodystyle">
+<div class="mainheading"><h1>LAHARI </h1></div>
+<div class="address"><h5>#95,2nd cross,<br> Maruthi nagar,</br>Narasannapeta,<br/>Srikakulam,<br/>Mobile:+91 8310165489. </h5></div>
+<div class="sideheading"><h3>CAREER OBJECTIVE:</h3></div><br/>
+<div class="content"><h4>To Pursue a Challenging Career and be a part of Progressive Organization that gives a Scope to Enhance My Knowledge 
+		and Utilizing My Skills towards the growth of the Organization.</h4></div><br/>
+<div class="sideheading"><h3>ACADEMIC PROFILE:</h3></div><BR/>
+<table border="2" cellpadding="10%" cellspacing="10%" id="details">
+			<tr align="center">
+				<th><H3><B>COURSE</B></h3></th>
+				<th><H3><B>INSTITUTE</B></h3></th>
+				<th><H3><B>BOARD</B></h3></th>
+				<th><H3><B>YEAR</B></h3></th>
+				<th><H3><B>SCORE</B></h3></th>
+			</TR>
+			<tr align="center">
+				<td><h4>B.Tech(CSE)</h4></TD>
+				<TD><h4>Aditya Institute of Technology And Management</h4></A>
+				<TD><h4>JNTU,KAKINADA</h4></TD>
+				<TD><h4>2020</h4></TD>
+				<TD><h4>8.2(CGPA)</h4></TD>
+			</TR>
+			<tr align="center">
+				<TD><h4>10+2</h4></TD>
+				<TD><h4>Sri Chaitanya Junior College</h4></TD>
+				<TD><h4>Board of Intermediate Education</h4></TD>
+				<TD><h4>2016</h4></TD>
+				<TD><h4>93%</h4></TD>
+			</tr>
+			<tr align="center">
+				<TD><h4>S.S.C</h4></TD>
+				<TD><h4>Sri Chaitanya Techno School</h4></TD>
+				<TD><h4>Board of Secondary Education</h4></TD>
+				<TD><h4>2014</h4></td>
+				<TD><h4>9.3(CGPA)</h4></TD>
+			</TR>
+		</TABLE><br/>
+
+<div class="sideheading"><h3>PARTICIPATIONS:</h3></div><br/>
+<div class="content"><h4>Participated in Virtual Lab Workshop.<br/><br/>Participated in 3-day workshop on Android Development Course.<br/><br/>Given a PowerPoint Presentation on Face Recognition.</h4></li>
+			<br/></div>
+<div class="sideheading"><h3>TECHNICAL SKILLS:</h3></div><br/>
+<div class="content"><table><tr><td><h4>Languages</h4></td><td><h4>:</h4></td><td><h4>C,C++,Java,Python.</h4></td></tr>
+		<tr><td><h4>Database<h4></td><td><h4>:</h4></td><td><h4>MySQL.</h4></td></tr>
+		<tr><td><h4>Web Technologies</h4></td><td><h4>:</h4></td><td><h4>HTML.</h4></td></tr>
+		<tr><td><h4>Operating Systems</h4></td><td><h4>:</h4></td><td><h4>Windows 8/7XP,Ubuntu.</h4></td></tr>
+		<tr><td><h4>Study software's</h4></td><td><h4>:</h4></td><td><h4>MS office.</h4></td></tr>
+		<tr><td><h4>Testing Domain</h4></td><td><h4>:</h4></td><td><h4>Selenium Webdriver.</h4></td></tr></table></div>
+<div class="sideheading"><h3>MINI PROJECT:</h3></div><br/>
+<div class="content"><table><tr><td><h4>Title</h4></td><td><h4>:SCHOOL BILLING SYSTEM</h4></td></tr>
+		<tr><td><h4>Team members</h4></td><td><h4>:Ateam of 5 members</h4></td></tr>
+		<tr><td><h4>Description</h4></td><td><h4>:</h4></td></tr>
+		<tr><td></td><td><h4>Maintaining data in file format and storing in records leads to loss of data due to any reasons in traditional approaches. Using conventional approaches storing data of every individual can be done easier due to advancement in technology. In this project, we can perform billing or accounting operations under two account types: one for the students and one for teachers and staffs. We can add, modify, search and delete the records of both account types. In addition to that, this allows us to display fees, dues, total and advance of students, and salary-related information of teachers and staff. This reduces the man power and generates report quicker on when needed by any organizations.</h4></td></tr>
+		<tr><td><h4>Output</h4></td><td><h4>:</h4></td></tr>
+		<tr><td></td><td><h4>For the entry of records, current date and month is asked. Then, you can select the account type, and perform billing operations. In the add record, the name, class and roll number of the student is asked, and it is similar for all other functions as well as the teachers account. 
+		</h4></td></tr></table>
+		</div>
+<div class="sideheading"><h3>PERSONAL SKILLS:</h3></div><br/>
+<div class="content"><h4>Comprehensive problem solving abilities.<br/><br/>Ability to deal with people diplomatically.<br/><br/>
+			Confident and Determined.<br/><br/>Ability to work under pressure situations.</div>
+<div class="sideheading"><h3>ACHIEVEMENTS:</h3></div><br/>
+<div class="content"><h4>Secured first in quiz competition conducted in school.<br/><br/>Got certification of appreciation in Android Workshop associated with internshala.</h4><br/> </div>
+<div class="sideheading"><h3>PERSONAL SKILLS:</h3></div><br/>
+<div class="content"><h4><table><tr><td><h4>Father's Name</h4></td><td><h4>:</h4></td><td><h4>V.RAMANARASIMHULU</h4></td></tr>
+				         <tr><td><h4>Date of Birth</h4></td><td><h4>:</h4></td><td><h4>10-06-1999</h4></td><tr>
+						 <tr><td><h4>Gender</h4></td><td><h4>:</h4></td><td><h4>Female</h4></td></tr>
+						<tr><td><h4> Nationality/Religion</h4></td><td><h4>:</h4></td><td><h4>Indian/Hindu</h4></td></tr>
+					 <tr><td><h4>Marital Status</h4></td><td><h4>:</h4></td><td><h4>Single</h4></td></tr>
+					  <tr><td><h4>Languages Known</h4></td><td><h4>:</h4></td><td><h4>Telugu and English</h4></td></tr>
+						 <tr><td><h4>Hobbies and interests</h4></td><td><h4>:</h4></td><td><h4>Solving Puzzles and Making Handcrafts</h4></td></tr>
+						</table>
+						 </div>
+<div class="sideheading"><h3>DECLARATION:</h3></div><br/>
+<div class="content"><h4>I here by declare that the above furnished details are correct to the best of my knowledge.<h4><div>
+<h4>Place:Tekkali</h4>
+<h4>Date:12-12-2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspV.LAHARI</h4>
+</div>
+</center>
+
+</body>
+</html>
+
